@@ -1,6 +1,6 @@
 {
   "name": "byui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "UI components base on Vue 2.x",
   "author": "164005206@qq.com",
   "main": "package/yuui.min.js",
